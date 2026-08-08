@@ -48,12 +48,6 @@ npm run preview   # Preview production build
 npm run format    # Prettier
 ```
 
-There is no dedicated test script in this package; validate the walkthrough manually (steps below). Optional API check:
-
-```sh
-npx tsx scripts/demo-flow-check.ts
-```
-
 ## Demo walkthrough
 
 1. **Dashboard** -- Load the home page. Olivia Martin is first (critical). The footer of the queue shows **Showing 1-10 of 100.** (page size 10). Summary counts show nearest deadline, blockers, and open AI findings.
