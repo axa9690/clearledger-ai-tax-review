@@ -8,6 +8,8 @@ ClearLedger is an AI-assisted CPA tax-review prototype built for a case-study de
 
 Deployed app: [https://anand-clearledger.vercel.app/](https://anand-clearledger.vercel.app/)
 
+Video Walkthrough: [https://drive.google.com/file/d/1HaMPYs1FEDHeCqmygwnU7CRtK1qiLS9n/view](https://drive.google.com/file/d/1HaMPYs1FEDHeCqmygwnU7CRtK1qiLS9n/view)
+
 All deadlines use a fictional demo reference date of **March 16, 2026**.
 
 ## Challenges covered
