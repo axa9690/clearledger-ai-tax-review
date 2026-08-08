@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="ClearLedger">
+  <!-- Matches AppShell top-left mark: rounded primary tile with mono "CL" -->
+  <rect width="32" height="32" rx="6" fill="#2f5c47"/>
+  <text
+    x="16"
+    y="17"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="ui-monospace, 'IBM Plex Mono', 'SFMono-Regular', Menlo, Consolas, monospace"
+    font-size="13"
+    font-weight="600"
+    fill="#faf9f6"
+  >CL</text>
+</svg>
